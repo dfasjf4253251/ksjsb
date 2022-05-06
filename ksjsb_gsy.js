@@ -1,5 +1,6 @@
 /*
-高收益版本 自行斟酌是否运行
+高收益版本990金币 自行斟酌是否运行
+定时：10 2,4,6,8,10,13,15,17,19,21,23 * * *
 */
 let res1 = 'https://service-a4qrxsh5-1251779871.bj.apigw.tencentcs.com/file/8a47ac67f95b09df4de35ea1c783c368_fd805c76-cce9-11ec-82ae-617082dd663f/ksjsb.json';
 let res2 = 'https://service-a4qrxsh5-1251779871.bj.apigw.tencentcs.com/file/8a47ac67f95b09df4de35ea1c783c368_fd805c76-cce9-11ec-82ae-617082dd663f/ksjsb.json';
